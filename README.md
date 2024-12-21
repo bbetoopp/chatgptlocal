@@ -1,0 +1,2 @@
+# chatgptlocal
+midudev tiene razón?
