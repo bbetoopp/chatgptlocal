@@ -10,6 +10,7 @@ Cosas a mejorar:
 
 
 -hacer mas smooth el scroll
+-meter dialogo con botq
 
 
 
