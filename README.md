@@ -7,5 +7,10 @@ momento video:
 47:13 // 1:37:34 (total)
 
 Cosas a mejorar:
+
+
 -hacer mas smooth el scroll
+
+
+
 grasia
